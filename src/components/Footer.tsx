@@ -12,7 +12,7 @@ const Footer = () => {
               <School className="w-6 h-6 text-primary" />
             </div>
             <div className="text-white">
-              <h3 className="font-semibold text-lg">Naveen</h3>
+              <h3 className="font-semibold text-lg">A. Naveen</h3>
               <p className="text-gray-300">TSKC FTM</p>
               <div className="flex items-center gap-2 mt-1">
                 <Phone className="w-4 h-4" />
