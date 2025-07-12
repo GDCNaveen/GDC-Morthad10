@@ -14,7 +14,7 @@ const BA = () => {
       id: 1,
       type: "video" as const,
       title: "B.A. English Literature - Poetry Analysis",
-      description: "Comprehensive analysis of English poetry covering various literary periods. This session explores the works of renowned poets, their techniques, themes, and historical context. Students will learn about metaphors, symbolism, and literary devices used in classical and modern poetry.",
+      description: "Naveen - Comprehensive analysis of English poetry covering various literary periods. This session explores the works of renowned poets, their techniques, themes, and historical context. Students will learn about metaphors, symbolism, and literary devices used in classical and modern poetry.",
       category: "B.A.",
       videoUrl: "https://player.vimeo.com/video/1095510347?h=adbdfa174b&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479",
     },
